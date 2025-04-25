@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kcbmmbck&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kcbmmbck&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -22,10 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
-
-###
-
-<p align="left">Hello, I am Kean Moscoso. I was born hearing impaired, but I went through school to earn a bachelor's degree in computer science. I have a strong background in working in HTML, CSS, JavaScript, C++, Java, Python, and Microsoft Power Apps. My focus is extremely hard because I love to solve problems and turn code around. My best work comes from debugging, with the goal of making software work properly. My goal is to get to the point that develops innovative, efficient, and inclusive apps. I'm very proud of how far I've come along with this journey and all that I can do to further continue growing as a dedicated and passionate developer.</p>
 
 ###
 
@@ -50,6 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kcbmmbck/Kcbmmbck/output/snake.svg" alt="Snake animation" />
+<h3 align="center">Hello, I am Kean Moscoso. I was born hearing impaired, but I went through school to earn a bachelor's degree in computer science. I have a strong background in working in HTML, CSS, JavaScript, C++, Java, Python, and Microsoft Power Apps. My focus is extremely hard because I love to solve problems and turn code around. My best work comes from debugging, with the goal of making software work properly. My goal is to get to the point that develops innovative, efficient, and inclusive apps. I'm very proud of how far I've come along with this journey and all that I can do to further continue growing as a dedicated and passionate developer.</h3>
 
 ###
